@@ -24,7 +24,6 @@ img {
 
 #container {
     width: 100%;
-    text-align: center;
 }
 
 div {
@@ -34,6 +33,7 @@ div {
 }
 
 .box {
+    display: block;
     float: left;
     margin: 10px 20px;
     width: 280px;
