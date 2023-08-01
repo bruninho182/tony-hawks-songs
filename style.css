@@ -1,5 +1,7 @@
 body {
     background-color: rgb(12, 12, 12);
+    align-items: center;
+    margin: 0;
 }
 
 header {
@@ -19,23 +21,26 @@ h1 {
 img {
     width: 200px;
     margin-top: 20px;
-    margin-right: auto;
+
 }
 
 #container {
-    width: 100%;
+    width: 100vw;
+    height: 100vh;
+    display: inline-flex;
+    justify-content: center;
+    margin-bottom: 100px;
+
 }
 
 div {
     text-align: center;
-    margin: 10px;
     border-radius: 20px;
 }
 
 .box {
     display: block;
-    float: left;
-    margin: 10px 20px;
+    margin: 20px 20px;
     width: 280px;
     height: 720px;
     border: solid greenyellow 3px;
@@ -50,5 +55,5 @@ iframe {
     margin-right: auto;
     margin-left: -25px;
     width: 250px;
-    display:grid
+    display:grid;
 }
