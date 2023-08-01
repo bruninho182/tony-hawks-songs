@@ -1,6 +1,5 @@
 body {
     background-color: rgb(12, 12, 12);
-    align-items: center;
     margin: 0;
 }
 
@@ -21,7 +20,6 @@ h1 {
 img {
     width: 200px;
     margin-top: 20px;
-
 }
 
 #container {
@@ -32,7 +30,7 @@ img {
     justify-content: center;
     gap: 10px;
     flex-wrap: wrap;
-
+    flex-direction: row;
 }
 
 div {
