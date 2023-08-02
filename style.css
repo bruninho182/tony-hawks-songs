@@ -18,7 +18,7 @@ h1 {
     color: greenyellow;
 }
 
-h3 {
+h5 {
     color: greenyellow;
     font-family: 'Tektur', cursive;
     text-align: center;
@@ -27,7 +27,27 @@ h3 {
 img {
     width: 200px;
     margin-top: 20px;
+    animation: bounce 1s infinite alternate;
+    -webkit-animation: bounce 0.5s infinite alternate;
 }
+
+@keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-10px);
+  }
+}
+@-webkit-keyframes bounce {
+  from {
+    transform: translateY(0px);
+  }
+  to {
+    transform: translateY(-10px);
+  }
+}
+
 
 #container {
     position: relative;
