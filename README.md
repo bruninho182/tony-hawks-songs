@@ -7,7 +7,6 @@ Aproveite e curta um som 🎵🤟🏼
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -31,11 +30,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Com muito carinho desenvolvi este projeto das minhas 6 músicas
 preferidas dos jogos clássicos da franquia Tony Hawk's Pro Skater.
-
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
 
 ---
 
